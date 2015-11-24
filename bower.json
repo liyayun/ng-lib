@@ -1,0 +1,25 @@
+{
+  "name": "ng-lib",
+  "version": "0.0.1",
+  "homepage": "https://github.com/liyayun/ng-lib",
+  "authors": [
+    "Aaron.Lee <yayun.lish@ele.me>"
+  ],
+  "description": "angular指令库",
+  "main": "index",
+  "keywords": [
+    "angular",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
