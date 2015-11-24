@@ -1,2 +1,2 @@
 # ng-lib
-AngularJS指定库
+AngularJS工具库
